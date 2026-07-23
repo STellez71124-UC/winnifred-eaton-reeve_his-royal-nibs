@@ -1,14 +1,14 @@
 @charset "utf-8";
 @namespace epub "http://www.idpf.org/2007/ops";
 
-#chapter-20 blockquote p{
-	text-align: center;
-	text-indent: 0;
-}
-
 #chapter-20 blockquote b,
 [epub|type~="dedication"] b:first-of-type{
 	text-transform: uppercase;
+}
+
+#chapter-20 blockquote p{
+	text-align: center;
+	text-indent: 0;
 }
 
 #chapter-20 blockquote p:last-child{
