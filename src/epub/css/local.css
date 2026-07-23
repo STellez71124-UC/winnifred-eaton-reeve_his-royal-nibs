@@ -12,7 +12,7 @@
 }
 
 #chapter-20 blockquote p:last-child{
-	padding-left: 3.5em;
+	padding-left: 5em;
 }
 
 [epub|type~="dedication"] b:last-of-type{
