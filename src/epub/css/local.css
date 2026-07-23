@@ -10,6 +10,14 @@
 	text-transform: uppercase;
 }
 
+#chapter-20 blockquote p:last-child{
+	padding-left: 3.5em;
+}
+
+[epub|type~="z3998:signature"]{
+	font-variant: small-caps;
+}
+
 [epub|type~="z3998:verse"] p{
 	text-align: initial;
 	text-indent: 0;
