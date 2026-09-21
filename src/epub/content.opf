@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="se: https://standardebooks.org/vocab/1.0 rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
+<package xmlns="http://www.idpf.org/2007/opf" dir="ltr" prefix="rdf: http://www.w3.org/1999/02/22-rdf-syntax-ns#" unique-identifier="uid" version="3.0" xml:lang="en-US">
 	<metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
 		<dc:identifier id="uid">https://standardebooks.org/ebooks/winnifred-eaton-reeve/his-royal-nibs</dc:identifier>
 		<dc:date>1900-01-01T00:00:00Z</dc:date>
@@ -37,13 +37,13 @@
 		<meta property="authority" refines="#subject-2">LCSH</meta>
 		<meta property="term" refines="#subject-2">sh2007100375</meta>
 		<meta property="schema:genre">Fiction</meta>
-		<dc:description id="description">A young Englishman finds a new purpose in life by becoming a hired hand at a ranch in Canada.</dc:description>
-		<meta id="long-description" property="se:long-description" refines="#description">
+		<meta property="schema:abstract">A young Englishman finds a new purpose in life by becoming a hired hand at a ranch in Canada.</meta>
+		<dc:description>
 			&lt;p&gt;A young man, dubbed “Cheerio” for his English background, clean appearance and well-kept suit, unexpectadly arrives at the highly regarded O Bar O ranch with one goal in mind, to offer his services as a hired hand and find a new start in life in a foreign land. The ranch’s foreman, Bully Bill, surprised and irritated by the unwelcomed stranger, decides to give Cheerio the job he seeks after witnessing his ability to keep his composure in the presence of a startled herd and preventing the ranch owner’s son from getting injured after losing control of his bronco, seeing the potential in the man to become a good cowboy.&lt;/p&gt;
 			&lt;p&gt;At his first step into the world of ranching, Cheerio receives various tasks meant to test his skills as a worker and to have some fun at his expense. Despite the odds being against him, Cheerio proves his worth at every given opportunity and earns the respect, both honest and begrudging in nature, from riders and cowpunchers alike. His hard working day-to-day routine is balanced with his developing friendship with the boy he saved, Sandy McPherson, and his sister Hilda, to whom he develops a liking to and has become the subject of Cheerio’s artistic endeavours, even if her feelings towards him remain complex, as she both likes and dislikes him as a person and a ranch hand.&lt;/p&gt;
 			&lt;p&gt;Everything seems to be going well for Cheerio until an incident during the cattle’s processing at the branding corral brings back uncomfortable memories of his past life. Being deemed a coward and a weak man by his boss and peers, Cheerio grasps at one final chance to reclaim his life at the ranch and avoid getting fired before he could ever achieve his dream: play a nightly game of chess with Canadian Champion and famous rancher P. D. McPherson, a challenge of wills and strategy that places him in a position where his job is on the line and he cannot afford to lose.&lt;/p&gt;
 			&lt;p&gt;&lt;i&gt;His Royal Nibs&lt;/i&gt; is a story of resilience, newfound love and fresh beginnings inspired by &lt;a href="https://standardebooks.org/ebooks/winnifred-eaton-reeve"&gt;Winnifred Eaton Reeve’s&lt;/a&gt; focus on writing fiction set in Alberta, Canada after spending her earlier career in Japanese-themed works under a variety of pseudonyms, the most famous of which being “Onoto Watanna.” This work would turn out to be her last published novel, dedicating her creative efforts later in life to the film industry throughout several credited and ghostwriting-related roles.&lt;/p&gt;
-		</meta>
+		</dc:description>
 		<dc:language>en-GB</dc:language>
 		<dc:source>https://www.gutenberg.org/ebooks/66184</dc:source>
 		<dc:source>https://archive.org/details/P005039</dc:source>
